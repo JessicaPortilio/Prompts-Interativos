@@ -1,0 +1,8 @@
+Criando ambientes virtuais
+python -m venv env-env
+
+Ativar ambiente virtual
+env-env\Scripts\activate
+
+Criar prompts interativos para melhorar a interação no terminal.
+pip install InquirerPy

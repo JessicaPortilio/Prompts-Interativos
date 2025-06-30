@@ -6,3 +6,11 @@ env-env\Scripts\activate
 
 Criar prompts interativos para melhorar a interação no terminal.
 pip install InquirerPy
+
+Hash de senha aceitável para seu software e seus servidores
+pip install bcrypt
+
+Para busca fuzzy mais robusta
+pip install fuzzywuzzy
+
+pip install rich
